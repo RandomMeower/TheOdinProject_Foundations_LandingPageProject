@@ -37,7 +37,7 @@ header .container {
 }
 
 .logo img {
-  max-height: 64px;
+  max-height: 72px;
 }
 
 .header-list {
@@ -49,7 +49,7 @@ header .container {
 }
 
 li a {
-  font-size: 1.2em;
+  font-size: 1.3em;
 }
 
 a.page-link {
@@ -59,10 +59,6 @@ a.page-link {
 
 nav {
   margin-left: auto;
-}
-
-.logo {
-  font-size: 48px;
 }
 
 /* Hero section */
@@ -115,7 +111,7 @@ nav {
 
 .hero-button {
   margin-top: auto;
-  padding: 1.25em 4em;
+  padding: 1em 3em;
   border-radius: 1.1em;
   width: fit-content;
   background-color: #09122c;
@@ -250,7 +246,7 @@ nav {
 
 .cta-button {
   margin-top: auto;
-  padding: 1.25em 4em;
+  padding: 1em 3em;
   border-radius: 1.25em;
   width: fit-content;
   border: none;
@@ -282,8 +278,16 @@ footer {
     gap: 16px;
   }
 
+  .logo img {
+    max-height: 96px;
+  }
+
   nav {
     margin-left: 0;
+  }
+
+  li a {
+    font-size: 1.3em;
   }
 
   .hero .container {
