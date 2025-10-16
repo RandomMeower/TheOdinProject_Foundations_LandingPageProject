@@ -30,6 +30,6 @@ This wouldn't have been possible without the amazing (and free\!) curriculum fro
 I also got some great assets from around the web:
 
 - **Color Palette:** [ColorHunt](https://colorhunt.co/)
-- **Quote:** [Today.com](https://www.google.com/search?q=https://www.today.com/life/holidays/halloween-quotes-rcna39867)
-- **Logo Asset:** [Png Arts](https://www.pngarts.com/explore/162818)
+- **Quote:** [Today.com](https://www.google.com/search?q=https://www.today.com/life/holidays/halloween-quotes-rcna41306)
+- **Logo Asset:** [Png Arts](https://www.pngarts.com/)
 - **Other Assets:** Created with a little help from [Canva](https://www.canva.com/)
